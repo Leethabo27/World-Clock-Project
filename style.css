@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+#time-display {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 400px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+#city-selector {
+    margin-bottom: 20px;
+}
+
+#current-time {
+    font-size: 24px;
+    color: #555;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 14px;
+}
