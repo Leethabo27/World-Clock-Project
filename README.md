@@ -18,7 +18,7 @@
     <div id="current-time"></div>
   </div>
   <footer>
-     <p>This project was coded with ❤️ by Lethabo Semenya and is open-sourced on <a href="https://github.com/YOUR_USERNAME/world-clock" target="_blank">GitHub</a>.</p>
+     <p>This project was coded with ❤️ by Lethabo Semenya and is open-sourced on <a href="https://github.com/Leethabo27/World-Clock-Project" target="_blank">GitHub</a>.</p>
   </footer>
   <script src="index.js"></script>
 </body>
